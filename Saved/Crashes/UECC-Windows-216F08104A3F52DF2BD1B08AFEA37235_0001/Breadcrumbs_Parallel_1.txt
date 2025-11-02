@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+ - Nanite::BasePass
+ - NaniteBasePass
+ - BasePass
+ - Scene
+ - FRDGBuilder::Execute
+ - Frame 674178
